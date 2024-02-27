@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rkii939b
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on github
+- 🌱 I’m currently learning data science & full-stack ES6.
+- 💞️ I’m looking to collaborate on GitHub
 - 📫 Mail me at rkii939b@gmail.com
 
 <!---
